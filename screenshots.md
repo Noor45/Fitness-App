@@ -1,10 +1,10 @@
 # 📷 App Screenshots  
 
 ## 🔑 Sign In Screen  
-![Sign In Screen](https://drive.google.com/file/d/1ixEP_EZqzUpVSliAvrj1iUj2g8iqLmjV/view?usp=drive_link)  
+![Sign In Screen] https://drive.google.com/file/d/1ixEP_EZqzUpVSliAvrj1iUj2g8iqLmjV/view?usp=drive_link
 
 ## 📝 Sign Up Screen  
-![Sign Up Screen](https://drive.google.com/file/d/1yX-70B3lee6LvL-j4Ap05Ck8YKiBKLj-/view?usp=drive_link)  
+![Sign Up Screen] https://drive.google.com/file/d/1yX-70B3lee6LvL-j4Ap05Ck8YKiBKLj-/view?usp=drive_link  
 
 ## 🎯 Select Your Goals Screen  
 ![Select Goals Screen](https://drive.google.com/file/d/1hSYeiW_RdmIrcFiL59htSvM2bbDgoL3-/view?usp=drive_link)  
