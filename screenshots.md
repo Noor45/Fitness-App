@@ -1,7 +1,7 @@
 # 📷 App Screenshots  
 
 ## 🔑 Sign In Screen  
-![Sign In Screen](https://drive.google.com/uc?id=1ixEP_EZqzUpVSliAvrj1iUj2g8iqLmjV/view?usp=drive_link)
+![Sign In Screen](https://github.com/Noor45/Uploaded-Files/blob/main/1.jpg)
 
 ## 📝 Sign Up Screen  
 ![Sign Up Screen](https://drive.google.com/file/d/1yX-70B3lee6LvL-j4Ap05Ck8YKiBKLj-/view?usp=drive_link)  
