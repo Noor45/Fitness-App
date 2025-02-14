@@ -5,7 +5,7 @@ A **customized fitness app** where **instructors create personalized fitness pla
 ---
 
 ## 📽️ **Demo Video**  
-[![Watch the Demo](<img src="https://github.com/Noor45/Uploaded-Files/blob/main/16.1.png" width="200" height="500"/>)](https://youtube.com/shorts/kHiEytpsP-M)
+[![Watch the Demo](https://img.youtube.com/vi/kHiEytpsP-M/2.jpg)](https://youtube.com/shorts/kHiEytpsP-M)
 
 ---
 
@@ -75,3 +75,6 @@ A **customized fitness app** where **instructors create personalized fitness pla
 
 📷 Screenshots
 👉 **[View More Screenshots](screenshots.md)**
+
+
+Example:
