@@ -76,6 +76,3 @@ A **customized fitness app** where **instructors create personalized fitness pla
 
 📷 Screenshots
 👉 **[View More Screenshots](screenshots.md)**
-
-
-Example:
