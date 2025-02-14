@@ -5,7 +5,7 @@ A **customized fitness app** where **instructors create personalized fitness pla
 ---
 
 ## 📽️ **Demo Video**  
-**[Watch on YouTube](https://youtube.com/shorts/kHiEytpsP-M)**
+[![Watch the Demo](https://github.com/Noor45/Uploaded-Files/blob/main/16.1.png)](https://youtube.com/shorts/kHiEytpsP-M)
 
 ---
 
