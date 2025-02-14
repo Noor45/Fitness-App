@@ -5,8 +5,10 @@ A **customized fitness app** where **instructors create personalized fitness pla
 ---
 
 ## 📽️ **Demo Video**  
-🎥 Watch the demo here: [https://youtube.com/shorts/kHiEytpsP-M?feature=share] 
-
+<video width="600" controls>
+  <source src="https://youtube.com/shorts/kHiEytpsP-M" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 🛠️ **Technologies Used**  
