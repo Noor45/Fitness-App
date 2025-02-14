@@ -25,12 +25,11 @@
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/10.jpg" width="200" height="500"/>  
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/11.jpg" width="200" height="500"/> 
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/12.jpg" width="200" height="500"/> 
-<img src="https://github.com/Noor45/Uploaded-Files/blob/main/13.jpg" width="200" height="500"/> 
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/13.1.jpg" width="200" height="500"/> 
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/13.2.jpg" width="200" height="500"/>  
 
 ## 📅 Plan Screen  
-<img src="https://github.com/Noor45/Uploaded-Files/blob/main/16.1.jpg" width="200" height="500"/>
+<img src="https://github.com/Noor45/Uploaded-Files/blob/main/16.1.png" width="200" height="500"/>
 
 ## 🍽️ Meal Plan Screens  
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/14.jpg" width="200" height="500"/> 
