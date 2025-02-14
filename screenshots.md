@@ -4,7 +4,7 @@
 ![Sign In Screen](https://github.com/Noor45/Uploaded-Files/blob/main/1.jpg)
 
 ## 🔑 Sign In Screen  
-<img src="https://github.com/Noor45/Uploaded-Files/blob/main/2.jpg" width="300"/>  
+<img src="https://github.com/Noor45/Uploaded-Files/blob/main/2.jpg" width="300" height="500"/>  
 
 
 ## 📝 Sign Up Screen  
