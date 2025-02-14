@@ -1,9 +1,7 @@
 # 📷 App Screenshots  
 
 ## 🔑 Sign In Screen  
-![Sign In Screen](https://github.com/Noor45/Uploaded-Files/blob/main/1.jpg)
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/1.jpg" width="200" height="500"/>  
-
 
 ## 📝 Sign Up Screen  
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/2.jpg" width="200" height="500"/>  
@@ -14,7 +12,6 @@
 ## 🏋️ BMI Calculator Screen  
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/4.jpg" width="200" height="500"/> 
 
-d
 ## 📉 Body Fat Calculator Screens  
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/5.jpg" width="200" height="500"/> 
 <img src="https://github.com/Noor45/Uploaded-Files/blob/main/6.jpg" width="200" height="500"/> 
