@@ -3,6 +3,10 @@
 ## 🔑 Sign In Screen  
 ![Sign In Screen](https://github.com/Noor45/Uploaded-Files/blob/main/1.jpg)
 
+## 🔑 Sign In Screen  
+<img src="https://github.com/Noor45/Uploaded-Files/blob/main/1.jp" width="300"/>  
+
+
 ## 📝 Sign Up Screen  
 ![Sign Up Screen](https://drive.google.com/file/d/1yX-70B3lee6LvL-j4Ap05Ck8YKiBKLj-/view?usp=drive_link)  
 
