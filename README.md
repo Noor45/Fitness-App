@@ -71,8 +71,12 @@ A **customized fitness app** where **instructors create personalized fitness pla
 
 ### 🌙 **Dark/Light Theme Support**  
 ✔️ Switch between **dark & light mode** for better usability  
-
 ---
 
-📷 Screenshots
-👉 **[View More Screenshots](screenshots.md)**
+## 📷 Screenshots   
+
+| Home Screen | Diet Plan Screen | Blog Screen |
+|--------------|--------------|----------------------|
+| <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Fitness%20App/7.jpg" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Fitness%20App/16.1.png" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Fitness%20App/21.jpg" width="200" height="500"/> |
+
+📌 **View More Screenshots** 👉 [Screenshots.md](./screenshots.md)  
