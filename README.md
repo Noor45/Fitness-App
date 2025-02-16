@@ -71,6 +71,7 @@ A **customized fitness app** where **instructors create personalized fitness pla
 
 ### 🌙 **Dark/Light Theme Support**  
 ✔️ Switch between **dark & light mode** for better usability  
+
 ---
 
 ## 📷 Screenshots   
